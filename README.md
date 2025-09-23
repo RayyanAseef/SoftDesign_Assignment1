@@ -4,6 +4,8 @@ Folder Structure:
     \-> source: This folder contains all the the java files for each class.
     \-> test: This folder contains one test file to demonstrate the classes working as intended.
 
+    \-> README.md and the UML Diagram are both not in any subfolder.
+
 Test Methods:
 
     \-> Test 1:
@@ -18,4 +20,5 @@ Test Methods:
 
 Results:
 <img width="569" height="92" alt="image" src="https://github.com/user-attachments/assets/9a743b89-7993-4850-9fc2-00865681f083" />
+
 
